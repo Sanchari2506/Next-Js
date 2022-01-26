@@ -1,0 +1,9 @@
+.footerText{
+    color: coral;
+}
+.footer ul{
+    list-style: none;
+}
+.footer ul li{
+    color: cornflowerblue;
+}
